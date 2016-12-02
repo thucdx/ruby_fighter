@@ -6,7 +6,7 @@ Formally, the action of a Caesar cipher is to replace each plaintext letter with
 a fixed number of places down the alphabet. The cipher illustrated here uses a left shift of 
 three, so that (for example) each occurrence of E in the plaintext becomes B in the ciphertext.
 
-!(ceasar cipher)[./resources/ceasar-cipher.png]
+![ceasar cipher](./resources/ceasar_cipher.png)
 
 Given a `plaintext` and `shift` - number of position to shift, return `cipher`
 
