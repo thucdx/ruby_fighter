@@ -10,6 +10,7 @@ Rules:
 - The outcome should be ordered by points, descending. In case of a tie, teams are ordered 
 alphabetically.
 
+![foosball](resources/tournament.jpg)
 
 ### Input
 
