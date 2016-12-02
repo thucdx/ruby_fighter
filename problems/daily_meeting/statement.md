@@ -21,6 +21,7 @@ screen that customer reported late evening yesterday; my difficulties: don't kno
 reproduce that bug as it would not happen on my machine."
 `
 
+![Boring daily meeting](resources/daily_meeting.jpg)
 As a developer, participating daily meeting is a-must, writing a program to do this would make 
 our job less boring (yeah!!). So, do it now.
 
