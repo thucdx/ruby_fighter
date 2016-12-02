@@ -1,0 +1,67 @@
+1 hour
+
+w
+5 problems
+
+
+1. Shy colleage 
+
+Says hi to friend by ceasar cipher
+
+Tech: loop, string manipulation
+Difficulty: 4
+
+2. Daily meeting
+
+Report template
+
+Yesterday, I did ....
+Today, I will do
+My problem:
+
+
+Tech: string
+Difficulty: 1
+
+3. Foosball tournament
+
+require: foosball competition image 
+same as : http://exercism.io/exercises/ruby/tournament/readme
+Output: Detail ranking
+
+Tech: map/hash/symbol, sorting 
+Difficulty: 7
+
+4. Agile Leader
+? Meeting ok?
+conflict in individuals schedule
+
+Given schedule, is it possible for all member to attend meeting
+
+Tech:
+Difficulty: 6
+
+6. Naming Variables
+
+http://exercism.io/exercises/ruby/acronym/test-suite
+
+Tech: For, String manipulation
+Difficulty: 3
+
+7. Bracket Push 
+http://exercism.io/exercises/ruby/bracket-push/test-suite
+
+Difficulty: 7
+Tech: Stack
+
+8. CICD Box
+Ignore resource css, sass, scass, .min.js
+ How many codesmells?
+
+9. Nghiphep.nal.vn
+
+Late, cheat, which time ?
+
+5. 
+
+
